@@ -1,0 +1,23 @@
+{
+  "name": "watering",
+  "version": "1.0.0",
+  "description": "A project for watering my plants",
+  "main": "index.js",
+  "dependencies": {
+    "onoff": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomootes/watering.git"
+  },
+  "author": "Tom Ootes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomootes/watering/issues"
+  },
+  "homepage": "https://github.com/tomootes/watering#readme"
+}
